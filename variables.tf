@@ -1,4 +1,4 @@
-variable "terrargName"{
+variable "tfrgname"{
   type = string
 }
 
